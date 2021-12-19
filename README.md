@@ -12,7 +12,7 @@
 
 :books: I’m currently learning about web and mobile development.
 
-:outbox_tray: 2021/2022 Goals: I am looking for opportunities and collabaration in projects related to web development.
+:outbox_tray: 2021/2022 Goals: I am looking for opportunities to improve my skills 😁
 
 
 ## About me
