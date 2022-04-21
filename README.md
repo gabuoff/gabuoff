@@ -6,13 +6,13 @@
 
  
 
-:computer: I'm Web/Mobile Developer!
+:computer: I'm a Front-End Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Rio de Janeiro in Brazil.
 
-:books: I’m currently learning about web and mobile development.
+:books: I'm currently developing my skills
 
-:outbox_tray: 2021/2022 Goals: I am looking for opportunities to improve my skills 😁
+:outbox_tray: 2022 Goals: Improve my abilities using new frameworks
 
 
 ## About me
