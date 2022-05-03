@@ -1,7 +1,7 @@
 <h1 title="Sobre mim!" align="center">Sobre mim! 👨‍💻</h1>
 
 <div >
-<img align='left' src='https://i.gifer.com/6jdy.gif' width='100px'>
+<img align='left' src='https://i.gifer.com/6vIk.gif' width='100px'>
 <img align='right' src='https://pa1.narvii.com/6926/2ecd21b65f41389e520b0d3e229df37dafb0965cr1-500-322_hq.gif' width='100px'>
 <p align="center">Olá, tudo de bom meu companheiro? Bem-vindo ao meu perfil! Me Chamo Gabriel e sou Desenvolvedor Front-End com foco em web e estudando sobre mobile, mas por mais que meu foco seja esse me interesso bastante sobre esse universo de desenvolvimento e engenharia!</p>
 
@@ -26,11 +26,7 @@
 <img title="ReactJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img title="MongoDB" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img title="Bulma CSS Framework" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"/>
-<img title="Babel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"/>
 <img title="Git" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img title="Heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"/>
-<img title="Firebase" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 </div>
 
 </br>
