@@ -1,4 +1,4 @@
-<h1 title="Sobre mim!" align="center">Sobre mim! 🤓👨‍💻</h1>
+<h1 title="Sobre mim!" align="center">Um Pouco sobre mim💻</h1>
 
 <div >
  
@@ -31,7 +31,7 @@
 
 </br>
     
-<h2 title="Contato" align="center">Entre em contato! 📬 </h2>
+<h2 title="Contato" align="center">Me mande um olá 📬 </h2>
 
 <div align="center"> 
 <img align='right' src='https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif' width='100px'>
