@@ -8,14 +8,13 @@
 </div>
   
 </br>
-
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/gabuoff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabuoff&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabuoff&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
-    
-</br>
+ 
+</br> -->
 
 <div align="center" style="display: inline_block"> 
 <img title="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
