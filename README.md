@@ -6,13 +6,6 @@
 <p align="left">Olá🙋‍♂️, tudo de bom meu companheiro? Bem-vindo ao meu perfil! Me Chamo Gabriel e sou Desenvolvedor Front-End com foco em web e estudando sobre mobile, mas por mais que meu foco seja esse me interesso bastante sobre esse universo de desenvolvimento e engenharia!</p>
 
 </div>
-  
-</br>
-<div align="center">
-  <a href="https://github.com/gabuoff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabuoff&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabuoff&layout=compact&langs_count=7&theme=ayu-mirage"/>
-</div>
  
 </br>
 
