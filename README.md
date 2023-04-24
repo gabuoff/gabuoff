@@ -3,7 +3,7 @@
 <div >
  
 <!-- <img align='right' src='https://pa1.narvii.com/6926/2ecd21b65f41389e520b0d3e229df37dafb0965cr1-500-322_hq.gif' width='150px'> -->
-<p align="left">Olá🙋‍♂️, tudo de bom meu companheiro? Bem-vindo ao meu perfil! Me Chamo Gabriel e sou Desenvolvedor Front-End com foco em web e estudando sobre mobile, mas por mais que meu foco seja esse me interesso bastante sobre esse universo de desenvolvimento e engenharia!</p>
+<p align="left">Olá🙋‍♂️ Tudo de bom meu companheiro? Bem-vindo ao meu perfil! Me Chamo Gabriel e sou Desenvolvedor FullStack Angular e Java!</p>
 
 </div>
  
